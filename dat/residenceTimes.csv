@@ -1,0 +1,7 @@
+Tributary population,Segment,Shape,Rate
+South Santiam River,Mainstem (tag to STM),3.41,0.24
+South Santiam River,Tributary ( STM to FST),1.97,0.04
+South Santiam River,Tailrace (FST to recapture),0.24,0.02
+Middle Fork Willamette River,Mainstem (tag to WMF),9.69,0.32
+Middle Fork Willamette River,Tributary (WMF to DXT),1.86,0.86
+Middle Fork Willamette River,Tailrace (DXT to Recapture),4.58,0.1
